@@ -1,0 +1,13 @@
+name = "Fishcasting"
+filename = "fishcasting-0.2.10-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pXVLNcw1/versions/Pz61RJaD/fishcasting-0.2.10-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "b39d1f4f4226e65d71617ccdbaf973b774eb490124895908863387878989c926fc9c5fd04325981c32f734ca50a713feebab7c77bc94900a9cc4041da5fb3069"
+
+[update]
+[update.modrinth]
+mod-id = "pXVLNcw1"
+version = "Pz61RJaD"

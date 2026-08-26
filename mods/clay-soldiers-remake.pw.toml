@@ -1,0 +1,13 @@
+name = "Clay Soldiers Remake"
+filename = "csr-neoforge-1.21.1-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4zyuLusz/versions/s7jP6vT9/csr-neoforge-1.21.1-1.0.3.jar"
+hash-format = "sha512"
+hash = "ceb63769626101dd8fb5844839aa619f6877ed5f5d3bf942a4d1aa31ee43e80b9b0f0f548802f8a6f5a0abbb2d9fda6c55253af6058c3e248e648beda8ba9b2f"
+
+[update]
+[update.modrinth]
+mod-id = "4zyuLusz"
+version = "s7jP6vT9"

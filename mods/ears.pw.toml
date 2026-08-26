@@ -1,0 +1,13 @@
+name = "Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)"
+filename = "ears-buzz-neoforge-2.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mfzaZK3Z/versions/Laga35OM/ears-buzz-neoforge-2.1.2.jar"
+hash-format = "sha512"
+hash = "7418f7e8fc553dcae0b82eeb94c433055260019283da372d965af5543b48c7e3d195107383786894c34debe2e187c9993671bbf42e0f0a78ccb3d5ba971d46d7"
+
+[update]
+[update.modrinth]
+mod-id = "mfzaZK3Z"
+version = "Laga35OM"

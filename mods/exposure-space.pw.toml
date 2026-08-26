@@ -1,0 +1,13 @@
+name = "Exposure: Space"
+filename = "exposure-space-neoforge-1.2.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CXqSHlx2/versions/SdaNSzQP/exposure-space-neoforge-1.2.7.jar"
+hash-format = "sha512"
+hash = "5e6912d8faa690a187596e345006b5f4db7050d8e8e2e9e2e2c2b1b499dda1957074b4d5e242e85912d8606b265ed873768df2ce45975bdebb2fd8a1e561d570"
+
+[update]
+[update.modrinth]
+mod-id = "CXqSHlx2"
+version = "SdaNSzQP"

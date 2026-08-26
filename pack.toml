@@ -1,0 +1,13 @@
+name = "Sophia"
+author = "verbina29"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "20720079680ac00c55c5b771d92a572ffd73d1185c7455ffb654008ec68666f9"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.248"
