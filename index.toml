@@ -41,6 +41,11 @@ hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "992b0dca9683f225fc774d779762d18a009f2d82b9d051e7c0b55a33a95d9238"
+metafile = true
+
+[[files]]
 file = "mods/clay-soldiers-remake.pw.toml"
 hash = "053f18cb1d69e9fb8193f605df4587f771456cd5f4fb934581f0216df7f634e7"
 metafile = true
@@ -206,6 +211,11 @@ hash = "f920a59f0bad17bef19012cd889069e856ef62a54fa42b1d33f3570e290dc957"
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "75b43f1a86593360f10703b7625da4e0a3c435bf13bf8b5b75fa383a0338dade"
+metafile = true
+
+[[files]]
+file = "mods/inline.pw.toml"
+hash = "5592a8c0d97106286f29cf1c67a5b8979265a7b22fc3ccefd4f7ff8bc2b77ddc"
 metafile = true
 
 [[files]]
