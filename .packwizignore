@@ -1,0 +1,7 @@
+packwiz
+.gitignore
+.git
+packwiz.exe
+.gitattributes
+README.md
+TODO.md
