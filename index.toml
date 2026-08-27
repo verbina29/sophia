@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/inventoryhud-client.toml"
+hash = "25ca5af3ce5e7c67ac63ee5bb3141bca5febff6761e581c412da4ec8bb6f5a38"
+
+[[files]]
 file = "config/minihud.json"
 hash = "5a47a95597c23452b131667a60c52fcf28c9732b4e3ddfd796c64a3aa91d5340"
 
@@ -452,3 +456,7 @@ metafile = true
 file = "mods/zeta.pw.toml"
 hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
 metafile = true
+
+[[files]]
+file = "unsup.toml"
+hash = "5dc331c823faf9201cd209136b69cc031dcb1f12e8ac1442211c0b2bf71faf61"

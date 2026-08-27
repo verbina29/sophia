@@ -1,0 +1,11 @@
+[flavor_groups.overstimulation]
+name = "OVERSTIMULATION!!!"
+description = "adds all of the bullshit UI elements verbina likes. BoccHUD (mini-F3 ui), Inventory HUD+."
+choices = ["overstimulation_on", "overstimulation_off"]
+
+[metafile.inventoryhudplus]
+flavors = ["overstimulation_on"]
+[metafile.mafglib]
+flavors = ["overstimulation_on"]
+[metafile.bocchud]
+flavors = ["overstimulation_on"]
