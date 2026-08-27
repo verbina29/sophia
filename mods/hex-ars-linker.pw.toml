@@ -1,0 +1,13 @@
+name = "Hex-Ars Linker"
+filename = "hex_ars_link-1.21.1-0.9.5.2-pre47.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Yntfg3XG/versions/5qYtSG9f/hex_ars_link-1.21.1-0.9.5.2-pre47.jar"
+hash-format = "sha512"
+hash = "fc4690b3b5fcc1a3212a449105aa4bb02b21d3cb2f7386770a54f093eb79155faa528e070dab91675715c1c0565b959065a60e8ae01cb0d5592eb3d03b7548fb"
+
+[update]
+[update.modrinth]
+mod-id = "Yntfg3XG"
+version = "5qYtSG9f"

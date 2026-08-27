@@ -74,6 +74,31 @@ hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
 metafile = true
 
 [[files]]
+file = "mods/ars-creo.pw.toml"
+hash = "e735b472ad5c38359636d5abb84ed1baeb461f72aa19c324c349543823a16188"
+metafile = true
+
+[[files]]
+file = "mods/ars-energistique.pw.toml"
+hash = "8ad679c28c8d8ebf85609b571b4556bfd9f605506efbaa6907a3045c965ce8b8"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "8a857077b98b950607b66b0c4fec557f214190dd6657d5fc49cc3b8540126b5b"
+metafile = true
+
+[[files]]
+file = "mods/ars-polymorphia.pw.toml"
+hash = "d27c3146f8dc2face0cdd258bb7a9fc57308043bae378210f0bf3f4075827bc8"
+metafile = true
+
+[[files]]
+file = "mods/ars-sable.pw.toml"
+hash = "6f2831389ddba8705056285acea3c092eb2a80f6026ea9692f9b12ff3e1c9e03"
+metafile = true
+
+[[files]]
 file = "mods/better-advanced-tooltips.pw.toml"
 hash = "03084ff4f74cedc1b8ac6c85a98842f75956fb4fa811d285d8ca7caa8d54da5d"
 metafile = true
@@ -86,6 +111,11 @@ metafile = true
 [[files]]
 file = "mods/caelus.pw.toml"
 hash = "992b0dca9683f225fc774d779762d18a009f2d82b9d051e7c0b55a33a95d9238"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "e42363c32c9b6323eea977283c928cec373bfc415534ec92e9c3367ee8c54256"
 metafile = true
 
 [[files]]
@@ -299,6 +329,11 @@ hash = "f7448243d61c3e7c5941896816afb91dd069cef492a2d93ceba9f48e391cdf44"
 metafile = true
 
 [[files]]
+file = "mods/hex-ars-linker.pw.toml"
+hash = "80ff290503050d324accda6451d334e61ed784c32070c855c2aaec09bd440859"
+metafile = true
+
+[[files]]
 file = "mods/hexal-0.3.1-NEOFORGE-DEVEL-pre-12.jar"
 hash = "7d5c16c447504022ab0e0433235349fa33340d4196aa75ee250c87890e805c42"
 
@@ -483,6 +518,11 @@ hash = "152769b5dfbb92a836634e315898b23b6a555c60b6f05ddf38c00085f2b784f6"
 metafile = true
 
 [[files]]
+file = "mods/powah.pw.toml"
+hash = "dc9fec9f7c8410ed73c1d9dec65df90b83af5a62a86e6a33b55dec5641f49f17"
+metafile = true
+
+[[files]]
 file = "mods/psi.pw.toml"
 hash = "53a629cb7c4c98a5ca555d2adf3ea45b18c837526c54d2decc391d9f4e4f9ede"
 metafile = true
@@ -500,6 +540,11 @@ metafile = true
 [[files]]
 file = "mods/rebind-narrator.pw.toml"
 hash = "e14677e4e666a43564e6d60bc5bb3463a1a90a53c92267e6e76fb47eff561670"
+metafile = true
+
+[[files]]
+file = "mods/recipe-integration.pw.toml"
+hash = "30d29695511ea652621bb491932812ed370bb8ec2b7f216014a8e163c8df0520"
 metafile = true
 
 [[files]]
