@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/emi.css"
+hash = "cdbb2631595ed639f87ed2b60a8231df373fcc9c51ee4ee74aef6322bd734061"
+
+[[files]]
 file = "config/inventoryhud-client.toml"
 hash = "25ca5af3ce5e7c67ac63ee5bb3141bca5febff6761e581c412da4ec8bb6f5a38"
 
@@ -9,12 +13,20 @@ file = "config/minihud.json"
 hash = "5a47a95597c23452b131667a60c52fcf28c9732b4e3ddfd796c64a3aa91d5340"
 
 [[files]]
+file = "config/tide/tide_server.json"
+hash = "a252e14f324d11c51d9463bcf823026c47708f995d9bc6ee72f9a055fa14b223"
+
+[[files]]
 file = "config/xaero/minimap/default_radar_categories_client.json"
 hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
 
 [[files]]
 file = "config/xaerohud.txt"
 hash = "8d13c5f398016036aa4fdefb366ef3926d89f96ca104155bc9f6e5a7ec682ecd"
+
+[[files]]
+file = "kubejs/server_scripts/starting_items.js"
+hash = "28ca39d4595817367a1784e14848ba8f087ceda6650a51e7a057b20037b52b52"
 
 [[files]]
 file = "mods/accessories-compat-layer.pw.toml"
@@ -84,6 +96,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "e37aafe5cd58c8289c3b8929393cba2a5c7f2cdd5bbe01e9c6ada1f3f5b86436"
 metafile = true
 
 [[files]]
@@ -187,11 +204,6 @@ hash = "b755db273ddfbdafdbab2a2990188aa0e2ea88c842bd27aca5c61d42d3adfef9"
 metafile = true
 
 [[files]]
-file = "mods/experimentalist.pw.toml"
-hash = "ce375f0e149c899492b2c577aec39876a4c363d1d504871dc5e0f60f9492b8c6"
-metafile = true
-
-[[files]]
 file = "mods/exposure-detective.pw.toml"
 hash = "fa2ab5600a51cb1f73ac5abde6d1347747dcbffc4188fa552827445ce25e372a"
 metafile = true
@@ -267,6 +279,11 @@ metafile = true
 [[files]]
 file = "mods/hextra-patterns-1.21-1.10.0+1.21.1-devel-pre-4-neoforge-1.21.1.jar"
 hash = "e38ca8a70589f7711cd6510ffbce3b84d253940e5ccb39c5c889318a7bff0329"
+
+[[files]]
+file = "mods/hide-experimental-warning.pw.toml"
+hash = "a369596a2f75e3f05871b416ddfd0419e2dc4b36576d8e2e2ccf08ee876f7d3c"
+metafile = true
 
 [[files]]
 file = "mods/immersive-paintings.pw.toml"
