@@ -1,12 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ars_nouveau-common.toml"
+hash = "b1a7e267eac38e5dab7a225798f854333eb45a405e1caee6e895af1cc51b006f"
+
+[[files]]
+file = "config/ars_nouveau/glyph_snare.toml"
+hash = "c76e7f57b7b43cbf4b4c9a3f278db1c0510df55beb663b9cf7b199242c8fc3c6"
+
+[[files]]
 file = "config/emi.css"
 hash = "cdbb2631595ed639f87ed2b60a8231df373fcc9c51ee4ee74aef6322bd734061"
 
 [[files]]
 file = "config/inventoryhud-client.toml"
 hash = "25ca5af3ce5e7c67ac63ee5bb3141bca5febff6761e581c412da4ec8bb6f5a38"
+
+[[files]]
+file = "config/malum-common.toml"
+hash = "eae47b00c21d80e516aebfa6b93406c843fbd824fc01458b52380e1c187cf355"
 
 [[files]]
 file = "config/minihud.json"
@@ -26,7 +38,7 @@ hash = "8d13c5f398016036aa4fdefb366ef3926d89f96ca104155bc9f6e5a7ec682ecd"
 
 [[files]]
 file = "kubejs/server_scripts/starting_items.js"
-hash = "28ca39d4595817367a1784e14848ba8f087ceda6650a51e7a057b20037b52b52"
+hash = "92aaae1a7b90a54d67a583cca68c16d8cf4e383de1552271016b6375570da001"
 
 [[files]]
 file = "mods/accessories-compat-layer.pw.toml"
