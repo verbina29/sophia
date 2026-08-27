@@ -1,0 +1,13 @@
+name = "HexFlow"
+filename = "hexFlow-neoforge-1.21.1-0.6.0-pre47.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MRC1BQpK/versions/TSCR1pIb/hexFlow-neoforge-1.21.1-0.6.0-pre47.jar"
+hash-format = "sha512"
+hash = "02ca20624cfbc8c61333d3a7b84525b2fcba1b86a593a94ca5614fffef3a275e9ba9318fe07d057180a20525fbba822e6e8af5031445cda8aebf67d4e379f6c7"
+
+[update]
+[update.modrinth]
+mod-id = "MRC1BQpK"
+version = "TSCR1pIb"

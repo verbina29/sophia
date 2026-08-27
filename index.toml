@@ -37,6 +37,11 @@ hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
 metafile = true
 
 [[files]]
+file = "mods/akashic-tome.pw.toml"
+hash = "18a5b572a9afdb84b24f5c58c4a53022158f8db746dde95531b780d4713f3fc8"
+metafile = true
+
+[[files]]
 file = "mods/another-furniture.pw.toml"
 hash = "de1607e5033b34125361d2dd0b9234e08b5951e9d739ee1ded3bb127a842665b"
 metafile = true
@@ -54,6 +59,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "187eafde5974beee1263538b462b7b8fe2fc8948c5d413980d9796d55928580b"
+metafile = true
+
+[[files]]
+file = "mods/better-advanced-tooltips.pw.toml"
+hash = "03084ff4f74cedc1b8ac6c85a98842f75956fb4fa811d285d8ca7caa8d54da5d"
 metafile = true
 
 [[files]]
@@ -250,6 +260,15 @@ file = "mods/hexcasting-neoforge-1.21.1-0.12.0-devel-pre-48.jar"
 hash = "f920a59f0bad17bef19012cd889069e856ef62a54fa42b1d33f3570e290dc957"
 
 [[files]]
+file = "mods/hexflow.pw.toml"
+hash = "8029354e55d45c02bb95f98c7e6cd88ffe8085054c2848b22af3163845fc1ea7"
+metafile = true
+
+[[files]]
+file = "mods/hextra-patterns-1.21-1.10.0+1.21.1-devel-pre-4-neoforge-1.21.1.jar"
+hash = "e38ca8a70589f7711cd6510ffbce3b84d253940e5ccb39c5c889318a7bff0329"
+
+[[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "75b43f1a86593360f10703b7625da4e0a3c435bf13bf8b5b75fa383a0338dade"
 metafile = true
@@ -268,6 +287,10 @@ metafile = true
 file = "mods/inventoryhudplus.pw.toml"
 hash = "19997fc3233640cda64d2fbe3eb0c01c51910101cc67ad078fa1c9d9c7374703"
 metafile = true
+
+[[files]]
+file = "mods/ioticblocks-neoforge-1.0.2.jar"
+hash = "4d800196df458a960f8b3852602dab41aed6524abc4df45ff33a885a24734214"
 
 [[files]]
 file = "mods/iris.pw.toml"
@@ -315,6 +338,11 @@ hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "1db25211349d6526378c90de2ad12284b9abb66becd4945aebf9a26d4bdbb8d9"
+metafile = true
+
+[[files]]
 file = "mods/lodestonelib.pw.toml"
 hash = "f5d0701055478e980b50849f199f266e6ab1940277a17ad2e5060df0d978be83"
 metafile = true
@@ -347,6 +375,11 @@ metafile = true
 [[files]]
 file = "mods/moreiotas-0.1.1-1.21.1-devel-pre-3.jar"
 hash = "b1f73f1b3d664197acff9d0790cf0f9b848edf4912301fa151a837e4533bca33"
+
+[[files]]
+file = "mods/morph-o-tool.pw.toml"
+hash = "68073ca9ee14800d4f2087aec95a819743afb46b099e600ef2a4d91b78f87ed2"
+metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
@@ -418,6 +451,11 @@ hash = "e14677e4e666a43564e6d60bc5bb3463a1a90a53c92267e6e76fb47eff561670"
 metafile = true
 
 [[files]]
+file = "mods/rhino.pw.toml"
+hash = "e55ca32b338a0e0540f4fec5170675d860566255ae0f45692a00cb4ebf2eb535"
+metafile = true
+
+[[files]]
 file = "mods/sable.pw.toml"
 hash = "a1fa121ed5d0207e4cdd3f545d043f68f9a4bb38dcb21278b968fad5e4cefe4a"
 metafile = true
@@ -451,6 +489,10 @@ metafile = true
 file = "mods/tide.pw.toml"
 hash = "7b4d98d9a07495eb4c8e7181a6fbff38ffed9cec7995104937cd17b764dcd9e0"
 metafile = true
+
+[[files]]
+file = "mods/world-casting-neoforge-1.21.1-0.0.1-8.jar"
+hash = "667183846ed517b7c8f9d397436b633a1faad9016bea978eabb3646f69b14ee3"
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
