@@ -25,6 +25,10 @@ file = "config/minihud.json"
 hash = "5a47a95597c23452b131667a60c52fcf28c9732b4e3ddfd796c64a3aa91d5340"
 
 [[files]]
+file = "config/sophisticatedbackpacks-server.toml"
+hash = "a97fb8398b5dd6341e14f19cba2c8f75c3980fb1a18b544a01dba48f1cd4d0c5"
+
+[[files]]
 file = "config/tide/tide_server.json"
 hash = "a252e14f324d11c51d9463bcf823026c47708f995d9bc6ee72f9a055fa14b223"
 
