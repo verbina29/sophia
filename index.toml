@@ -112,6 +112,11 @@ hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
+file = "mods/dashpanels.pw.toml"
+hash = "ddf0cd016b63954828035c8d0d104e01a90ea8cec9e7d4c45cfbdf4fcc222b69"
+metafile = true
+
+[[files]]
 file = "mods/databank.pw.toml"
 hash = "f64659949843684d173c3eef1aa478950068088051f03965114df1f41488e7b2"
 metafile = true
@@ -398,6 +403,11 @@ hash = "53a629cb7c4c98a5ca555d2adf3ea45b18c837526c54d2decc391d9f4e4f9ede"
 metafile = true
 
 [[files]]
+file = "mods/psiutils.pw.toml"
+hash = "5e6902cc446347e904b975de72d2f3a11446c07e5ec2f37e58ae558abdfb4574"
+metafile = true
+
+[[files]]
 file = "mods/quark.pw.toml"
 hash = "726970c838cd6d724366956c2469b5a36dbe574abbd087317513359dfd1dd89e"
 metafile = true
@@ -459,4 +469,4 @@ metafile = true
 
 [[files]]
 file = "unsup.toml"
-hash = "5dc331c823faf9201cd209136b69cc031dcb1f12e8ac1442211c0b2bf71faf61"
+hash = "75ca9497ffe6bdf11cfa472bb2d6681a784c3af2186d399491fba51eaf8e51e4"

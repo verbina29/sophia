@@ -1,0 +1,13 @@
+name = "Psionic Utilities"
+filename = "psionicutilities-1.21-1.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PwZn5epo/versions/9Zk5jSpu/psionicutilities-1.21-1.4.jar"
+hash-format = "sha512"
+hash = "8194ff7b476e9ca327b5583c692aa57ed8343cc1ca42ca9ff63b50de703c9106052aa7ec4d1462705325d68cc8535a90e7b9ca023d5e121bae268f3a94579a0b"
+
+[update]
+[update.modrinth]
+mod-id = "PwZn5epo"
+version = "9Zk5jSpu"

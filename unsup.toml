@@ -1,6 +1,7 @@
 [flavor_groups.overstimulation]
 name = "OVERSTIMULATION!!!"
 description = "adds all of the bullshit UI elements verbina likes. BoccHUD (mini-F3 ui), Inventory HUD+."
+side = "client"
 choices = ["overstimulation_on", "overstimulation_off"]
 
 [metafile.inventoryhudplus]
