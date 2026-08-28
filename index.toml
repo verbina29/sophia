@@ -1063,11 +1063,6 @@ hash = "0c084b716102bb33d1b14ebd707a732cd807ddebc135989ee12664b58e3ad7f8"
 metafile = true
 
 [[files]]
-file = "mods/true-ending.pw.toml"
-hash = "01ceaadc4312cec47b35c619dec9875fd5600e81202980afe79f27c91d6ac311"
-metafile = true
-
-[[files]]
 file = "mods/two-players-one-horse.pw.toml"
 hash = "ab673373fa8785fb63443f8ae2c8692e9e8571d102015d210a3f2247ce6f91d3"
 metafile = true
