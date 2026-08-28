@@ -33,6 +33,10 @@ file = "config/minihud.json"
 hash = "5a47a95597c23452b131667a60c52fcf28c9732b4e3ddfd796c64a3aa91d5340"
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "fa102a8b8a40b2b763cde1a669f445c94daba0e7228bf27dcefa18e239c2cf29"
+
+[[files]]
 file = "config/sophisticatedbackpacks-server.toml"
 hash = "a97fb8398b5dd6341e14f19cba2c8f75c3980fb1a18b544a01dba48f1cd4d0c5"
 
