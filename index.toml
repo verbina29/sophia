@@ -132,6 +132,11 @@ hash = "b77926df9a06028f058f33d85837ca623eb6fef9c4b78d9b39b428a1bf1a67b5"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "f54cf71372645810ce22b0ba68e706139565437150e4cfd22bde4c14606099c4"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "dd56ff2bcc4253d1d70c08333632743fb56cdc4cf5518dc6afc024164633145d"
 metafile = true
@@ -202,6 +207,11 @@ hash = "e42363c32c9b6323eea977283c928cec373bfc415534ec92e9c3367ee8c54256"
 metafile = true
 
 [[files]]
+file = "mods/chipped.pw.toml"
+hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
+metafile = true
+
+[[files]]
 file = "mods/clay-soldiers-remake.pw.toml"
 hash = "053f18cb1d69e9fb8193f605df4587f771456cd5f4fb934581f0216df7f634e7"
 metafile = true
@@ -259,6 +269,11 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "a7eb11401eda3779b7f2d6f32c2964511d5c71760573f2577d55c78ca800f8a3"
+metafile = true
+
+[[files]]
+file = "mods/coroutil.pw.toml"
+hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
 metafile = true
 
 [[files]]
@@ -497,6 +512,11 @@ hash = "28c29922378fa19f4edf1d16fffb48287a87be159a3378647073bbdebd2a2196"
 metafile = true
 
 [[files]]
+file = "mods/extended-wrenches.pw.toml"
+hash = "59cfcbd44968549b7dc2f6e13b691d50c9c65af6bad966b47e097c7c937e6cfc"
+metafile = true
+
+[[files]]
 file = "mods/extreme_sound_muffler.pw.toml"
 hash = "00ec91db9928c4da54bb3843eb8eba7c918aa65ffdc90b69f93bd52e41387eb1"
 metafile = true
@@ -559,6 +579,11 @@ metafile = true
 [[files]]
 file = "mods/guideme.pw.toml"
 hash = "f7448243d61c3e7c5941896816afb91dd069cef492a2d93ceba9f48e391cdf44"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "0004feab868f7b873c12db05aae0d0dac6c87b497490b48bb66480e7c8d0f340"
 metafile = true
 
 [[files]]
@@ -698,6 +723,11 @@ hash = "710aceee1b9896d40fbba7da87d8f14cca0b29d32a75ad85abeab9f64d6b384a"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-vinery.pw.toml"
+hash = "535e8e9c6bc184e9771cf4e35795c8f162d89abeb5b9aed9c2ea2988c710776f"
+metafile = true
+
+[[files]]
 file = "mods/lighty.pw.toml"
 hash = "5ce96ac040fca257f41959be41ad80ba790102dc91cccd8c09e81eed19fa6478"
 metafile = true
@@ -797,6 +827,11 @@ hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
 metafile = true
 
 [[files]]
+file = "mods/patpat.pw.toml"
+hash = "0b24c1d1c740b7b5dfba1afc97c9fadd0e6fce127de8ed8d5e3b568f57bed9ac"
+metafile = true
+
+[[files]]
 file = "mods/paucal-0.7.1-pre-27+1.21.1-neoforge.jar"
 hash = "4be89c91385ffaecb5a0cc405d644dc7387c6f05705630b26df333a226ffae08"
 
@@ -888,6 +923,11 @@ metafile = true
 [[files]]
 file = "mods/repeatable-trial-vaults.pw.toml"
 hash = "3d3a587878a644531bd912305ad0d58ce582d957c085544f5d4dd0703a5f3a0a"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]
@@ -1027,6 +1067,11 @@ metafile = true
 [[files]]
 file = "mods/vehicle-upgrade.pw.toml"
 hash = "dcce4d7009e0e279644fdd68ca3603634a06eb580c3eff6dacc8c34266fba837"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
 metafile = true
 
 [[files]]
