@@ -452,6 +452,11 @@ hash = "e542594c75eddafc1b72baebc82aa65ce2d8d791bc0ace17c731760bf30360b4"
 metafile = true
 
 [[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "c5bb130a9bc6f565c90f5ceeec03bee73a4eaae801a7e44364941dff8b8502d4"
+metafile = true
+
+[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "e7e24f7fa2aa5971660befc844caac9d06952bc6b4fd4fe80bdb6e5f371d821b"
 metafile = true
@@ -1041,6 +1046,11 @@ metafile = true
 [[files]]
 file = "mods/ziplines-rezipped.pw.toml"
 hash = "1c6f7e31d1d6935ebe1ea651181b369c6708e8670ece825cf0f8c616b6b666b8"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "ea258ed5bf495d9017eeadc3cbf9bd67b1e672d843826bc077135548b5bc699e"
 metafile = true
 
 [[files]]
