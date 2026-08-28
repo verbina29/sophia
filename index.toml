@@ -515,6 +515,11 @@ hash = "eedcb7fff4e1e6e1e9b81920521277596b0907b0de377f06dc306d2d6624c69d"
 metafile = true
 
 [[files]]
+file = "mods/flib.pw.toml"
+hash = "c29b6380e2e0f0c21405241e4284201a49ae42837d6e30d2f91e53028f541fb9"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "f9c118b7a66238a7f9e052705e82402e57c7a5b753d62d679b94701ede479752"
 metafile = true
