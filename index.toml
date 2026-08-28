@@ -33,6 +33,10 @@ file = "config/minihud.json"
 hash = "5a47a95597c23452b131667a60c52fcf28c9732b4e3ddfd796c64a3aa91d5340"
 
 [[files]]
+file = "config/mixed_litter-startup.toml"
+hash = "820ca24503c2e4c21bf4a4295bad226f7feb19e32a766d1b9fcec7b609707827"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "fa102a8b8a40b2b763cde1a669f445c94daba0e7228bf27dcefa18e239c2cf29"
 
