@@ -1,0 +1,13 @@
+name = "Clientside Crafting"
+filename = "clientsidecrafting-neoforge-1.21.1-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3EJdo8Ai/versions/TWLEHRvK/clientsidecrafting-neoforge-1.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "6dde5716016061a28e1a2cdf8fc932e50201c23b91f800804826543081bfd304cdbddce8bd0ac9a93aa6c9d9366091f317b4237858964f5e9e5d944937b059bf"
+
+[update]
+[update.modrinth]
+mod-id = "3EJdo8Ai"
+version = "TWLEHRvK"

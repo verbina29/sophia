@@ -1,0 +1,13 @@
+name = "Creeper Heal port"
+filename = "creeperheal-1.21.1-2.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QBu1BxfL/versions/NWp8lXXz/creeperheal-1.21.1-2.0.4.jar"
+hash-format = "sha512"
+hash = "d7c5a8031956fb4dd5cf0694f2c6e3318a31f65c64e2311aef71b65ab5ab35baae6ee89c2df7a57a775f85a1d9d7b4daa4bac72e0e4ed271140d6ce6e16a1073"
+
+[update]
+[update.modrinth]
+mod-id = "QBu1BxfL"
+version = "NWp8lXXz"

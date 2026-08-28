@@ -1,0 +1,13 @@
+name = "Improved Multishot"
+filename = "improved_multishot-1.0.2-1.21.1-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gTwI7uca/versions/CJVdyvQW/improved_multishot-1.0.2-1.21.1-beta.jar"
+hash-format = "sha512"
+hash = "9a05e08b1219bc692cb80b3b388b8bf7f1fc0fbe34b9e284ee9b7ec799a9e935ac2a7a91183a326ffda0632fd5452e651547895b2e459c7bab524a22bd852a08"
+
+[update]
+[update.modrinth]
+mod-id = "gTwI7uca"
+version = "CJVdyvQW"
