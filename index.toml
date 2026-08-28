@@ -820,6 +820,11 @@ hash = "55b4c00d59cfe0e2677157d41fb900e0e45fa8facb2aa7782af7070c3ecfd1aa"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-glyphs.pw.toml"
+hash = "70bfb904ce4f816c1111e42640c877400a8e15e6e4d15fa06d8ba4c1856f4214"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
@@ -1011,6 +1016,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
+file = "mods/starbunclemania.pw.toml"
+hash = "735fffbb398e32f2db1f6ad7b48a28d7a4ff0a8390275f79e781f07177a960e4"
 metafile = true
 
 [[files]]
