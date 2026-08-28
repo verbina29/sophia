@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/CSC/config.toml"
+hash = "c71c85b729222ba7272acb53bca7dc3a8690a78841cb2601e4e49683d931a648"
+
+[[files]]
 file = "config/ars_nouveau-common.toml"
 hash = "b1a7e267eac38e5dab7a225798f854333eb45a405e1caee6e895af1cc51b006f"
 
@@ -17,6 +21,10 @@ file = "config/inventoryhud-client.toml"
 hash = "25ca5af3ce5e7c67ac63ee5bb3141bca5febff6761e581c412da4ec8bb6f5a38"
 
 [[files]]
+file = "config/lmft.json"
+hash = "adf033fbaab1635ff69880952817366a1abe84ff586504abc29ac96f13454f91"
+
+[[files]]
 file = "config/malum-common.toml"
 hash = "eae47b00c21d80e516aebfa6b93406c843fbd824fc01458b52380e1c187cf355"
 
@@ -27,6 +35,10 @@ hash = "5a47a95597c23452b131667a60c52fcf28c9732b4e3ddfd796c64a3aa91d5340"
 [[files]]
 file = "config/sophisticatedbackpacks-server.toml"
 hash = "a97fb8398b5dd6341e14f19cba2c8f75c3980fb1a18b544a01dba48f1cd4d0c5"
+
+[[files]]
+file = "config/starcatcher-server.toml"
+hash = "26f28de03a90b8ff1348e0463b9ba910394f9511bce7fd389b1d5e5d7f73bc6b"
 
 [[files]]
 file = "config/tide/tide_server.json"
@@ -42,7 +54,7 @@ hash = "8d13c5f398016036aa4fdefb366ef3926d89f96ca104155bc9f6e5a7ec682ecd"
 
 [[files]]
 file = "kubejs/server_scripts/starting_items.js"
-hash = "92aaae1a7b90a54d67a583cca68c16d8cf4e383de1552271016b6375570da001"
+hash = "397773b3edcda78fbd496e59b2a32bb918a2ccbb8953715632ec72dbac0587fa"
 
 [[files]]
 file = "mods/accessories-compat-layer.pw.toml"
@@ -747,11 +759,6 @@ metafile = true
 [[files]]
 file = "mods/neovitae.pw.toml"
 hash = "a33a444be67d5cbbc719fae97078edb490984f2227fe51ef00da6dac6e6a8ae6"
-metafile = true
-
-[[files]]
-file = "mods/no-enderman-grief.pw.toml"
-hash = "3349a217141d1587f6ef03baf8cdd106ada041a8fce0972f1955781b320c0a33"
 metafile = true
 
 [[files]]
