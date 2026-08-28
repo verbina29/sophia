@@ -580,6 +580,11 @@ hash = "8029354e55d45c02bb95f98c7e6cd88ffe8085054c2848b22af3163845fc1ea7"
 metafile = true
 
 [[files]]
+file = "mods/hexparse.pw.toml"
+hash = "9017e0df1b4f6070f44fd196a08c3d4ad43558052366af49ebd46dbd1a9e5e7d"
+metafile = true
+
+[[files]]
 file = "mods/hextra-patterns-1.21-1.10.0+1.21.1-devel-pre-4-neoforge-1.21.1.jar"
 hash = "e38ca8a70589f7711cd6510ffbce3b84d253940e5ccb39c5c889318a7bff0329"
 

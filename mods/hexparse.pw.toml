@@ -1,0 +1,13 @@
+name = "HexParse"
+filename = "hexParse-neoforge-1.21.1-1.11.2-pre47.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WjFyIzFj/versions/EDXpYlwy/hexParse-neoforge-1.21.1-1.11.2-pre47.jar"
+hash-format = "sha512"
+hash = "af5b6f6c7cb1ff8407a0ea8f8bce3d7a84390e3c822821ec9c22948a1046a1db8c37aeec4c49f041b4fb1be8430a12a31ca7ab4235916c653c67f6c5d9aa1cf4"
+
+[update]
+[update.modrinth]
+mod-id = "WjFyIzFj"
+version = "EDXpYlwy"
