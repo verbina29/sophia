@@ -829,6 +829,11 @@ hash = "a33a444be67d5cbbc719fae97078edb490984f2227fe51ef00da6dac6e6a8ae6"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
+metafile = true
+
+[[files]]
 file = "mods/no-mans-delight.pw.toml"
 hash = "ab2cff38a5f58e46582ee8c87cc1aa8ea2248b8e174d3a3ffd3f8bd5530dac2f"
 metafile = true
