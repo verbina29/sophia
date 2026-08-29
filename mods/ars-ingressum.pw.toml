@@ -1,0 +1,13 @@
+name = "Ars Ingressum"
+filename = "ars_ingressum-1.21.1-0.1.1b.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c78e7f69dbc03dceb56d0108558d92678ad0f3d4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7516731
+project-id = 1441516

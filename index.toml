@@ -124,6 +124,11 @@ hash = "8ad679c28c8d8ebf85609b571b4556bfd9f605506efbaa6907a3045c965ce8b8"
 metafile = true
 
 [[files]]
+file = "mods/ars-ingressum.pw.toml"
+hash = "822da0c63c994f15a08827a8f815af179a499fd4096619a8a6a5d809ce0ddb85"
+metafile = true
+
+[[files]]
 file = "mods/ars-nouveau.pw.toml"
 hash = "8a857077b98b950607b66b0c4fec557f214190dd6657d5fc49cc3b8540126b5b"
 metafile = true
@@ -396,6 +401,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
+file = "mods/custom-player-models.pw.toml"
+hash = "eb782f7993af2d30ddab28203fbc9d520d09dd53e36dd624734bfc7e86b34127"
 metafile = true
 
 [[files]]
@@ -687,6 +697,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "4de3e4a1a49e332c1ad313283e0403c4273b628d634c17a9ff0c9da3d6b67f9a"
+metafile = true
+
+[[files]]
+file = "mods/joy-of-painting.pw.toml"
+hash = "5b21ffe8e89b5b31876365b950b2e44fe6d51f8e3d6d3f8c639174ed4f9f8c9c"
 metafile = true
 
 [[files]]
