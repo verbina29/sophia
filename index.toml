@@ -53,6 +53,10 @@ file = "config/tide/tide_server.json"
 hash = "a252e14f324d11c51d9463bcf823026c47708f995d9bc6ee72f9a055fa14b223"
 
 [[files]]
+file = "config/vehicleupgrade-client.toml"
+hash = "be2f5da8fd841c37d0a97007a74fbd4ce67f4a18fd98003236aa19a1dc0d91a0"
+
+[[files]]
 file = "config/xaero/minimap/default_radar_categories_client.json"
 hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
 
