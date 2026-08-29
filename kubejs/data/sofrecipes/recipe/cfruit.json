@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " e ",
+    "eae",
+    " e "
+  ],
+  "key": {
+    "e": {
+        "item": "minecraft:ender_eye"
+      },
+    "a": {
+        "item": "minecraft:apple"
+      }
+  },
+  "result": {
+    "id": "minecraft:chorus_fruit"
+  }
+}

@@ -61,8 +61,12 @@ file = "config/xaerohud.txt"
 hash = "8d13c5f398016036aa4fdefb366ef3926d89f96ca104155bc9f6e5a7ec682ecd"
 
 [[files]]
-file = "kubejs/data/Sophia Recipes.zip"
-hash = "44f4c6c634e350021ae98dd1145b8037218a42c20c8b9d087ae7782dec9009be"
+file = "kubejs/data/sofrecipes/recipe/cfruit.json"
+hash = "a27ba5841c70776da0bfde0c4e40a13a0386a2c32040f9a45b30b1ae6a06525f"
+
+[[files]]
+file = "kubejs/data/vinery/recipe/grapevine_stem.json"
+hash = "77e0dd3551f931743fba823d506c0b205926b23e07b507b3c414a4052a79f1fc"
 
 [[files]]
 file = "kubejs/server_scripts/starting_items.js"

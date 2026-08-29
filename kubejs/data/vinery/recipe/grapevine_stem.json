@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " e",
+    "e "
+  ],
+  "key": {
+    "e": {
+        "tag": "minecraft:logs"
+      }
+  },
+  "result": {
+    "id": "vinery:grapevine_stem"
+  }
+}
