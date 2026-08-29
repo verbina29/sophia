@@ -61,8 +61,8 @@ file = "config/xaerohud.txt"
 hash = "8d13c5f398016036aa4fdefb366ef3926d89f96ca104155bc9f6e5a7ec682ecd"
 
 [[files]]
-file = "kubejs/data/Sofia Recipes.zip"
-hash = "2ddf75f035ab564ed05bd3c32be3e860c0470db172d9ee4dcad5c7ba23f47204"
+file = "kubejs/data/Sophia Recipes.zip"
+hash = "44f4c6c634e350021ae98dd1145b8037218a42c20c8b9d087ae7782dec9009be"
 
 [[files]]
 file = "kubejs/server_scripts/starting_items.js"
