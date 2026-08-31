@@ -1,0 +1,13 @@
+name = "Ender IO: Source Conduits"
+filename = "eio_source_conduits-1.0.1-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XbedLObj/versions/46zH8oh3/eio_source_conduits-1.0.1-1.21.1.jar"
+hash-format = "sha512"
+hash = "ff465919450a61b05c0d5874753dea7798abe565bfbd814d89868618578f89cf32a67d6427707eb823404c05cf9d14a4e2b6c80db8439764988d33b25d219e11"
+
+[update]
+[update.modrinth]
+mod-id = "XbedLObj"
+version = "46zH8oh3"

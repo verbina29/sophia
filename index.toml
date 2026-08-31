@@ -91,6 +91,11 @@ hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
 metafile = true
 
 [[files]]
+file = "mods/advancedae.pw.toml"
+hash = "44791600b6d51fed024525689166334f8e3bc97cce2acef9190f244319ea6cf8"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "ed45c352a49b65c7221e57d979d0c6935522dfef4968aa5b7421f4d3e670ce40"
 metafile = true
@@ -98,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "18a5b572a9afdb84b24f5c58c4a53022158f8db746dde95531b780d4713f3fc8"
+metafile = true
+
+[[files]]
+file = "mods/almostunified.pw.toml"
+hash = "3805fe2877cffdae5e7bf74d85069a2535daa39a0f3ed766755be49294a07680"
 metafile = true
 
 [[files]]
@@ -366,6 +376,11 @@ hash = "8205f415e163e4e5f70a997d17e68bc8d71758e081307a78837b9d41010846ab"
 metafile = true
 
 [[files]]
+file = "mods/create-ore-excavation.pw.toml"
+hash = "10d3389f72e8e8f78518f5b6786ccec4e62dbad117491d2970e8e1f75e390251"
+metafile = true
+
+[[files]]
 file = "mods/create-rail-grinding.pw.toml"
 hash = "96cb3a63a8cea76798153bfeeedab94d487210040a07b08c2df0e401ea85c137"
 metafile = true
@@ -493,6 +508,16 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "88b9e727611f06350c407aeb4ccb41207b5058fef127abe0ff24c13505618aaf"
+metafile = true
+
+[[files]]
+file = "mods/ender-io-source-conduits.pw.toml"
+hash = "c434710dfada695f163744767a7df51bdb02c6107964ae522231307dab7425c7"
+metafile = true
+
+[[files]]
+file = "mods/enderio.pw.toml"
+hash = "bb335808d1873c81f83ec9cf4ca15e8820cfcbd6354beb331a01dc7c2c711ca9"
 metafile = true
 
 [[files]]
@@ -658,8 +683,18 @@ hash = "a369596a2f75e3f05871b416ddfd0419e2dc4b36576d8e2e2ccf08ee876f7d3c"
 metafile = true
 
 [[files]]
+file = "mods/immersive-melodies.pw.toml"
+hash = "257eefbb2a07dfb57e0201068da06abb9615df81f152fbd507f532e33f79f8b4"
+metafile = true
+
+[[files]]
 file = "mods/immersive-paintings.pw.toml"
 hash = "75b43f1a86593360f10703b7625da4e0a3c435bf13bf8b5b75fa383a0338dade"
+metafile = true
+
+[[files]]
+file = "mods/immersiveengineering.pw.toml"
+hash = "91875c996a9958aeea794843fb449915218625f52aaf0234ccd1faffa887e277"
 metafile = true
 
 [[files]]
@@ -866,6 +901,11 @@ hash = "70bfb904ce4f816c1111e42640c877400a8e15e6e4d15fa06d8ba4c1856f4214"
 metafile = true
 
 [[files]]
+file = "mods/oritech.pw.toml"
+hash = "df4197308d84861a60188e778228f1d08000c18a6f590b0cacadfae3e961bcd6"
+metafile = true
+
+[[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
@@ -912,6 +952,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
+metafile = true
+
+[[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "382d3478ca5fb06dba118a62137ee8f2380b23696124b772a3a3b1fe11ec7618"
 metafile = true
 
 [[files]]
