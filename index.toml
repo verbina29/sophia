@@ -1070,11 +1070,6 @@ hash = "76ba9c6c6ff15d6b2399d1b3154a7439ec18f9480a69fd11140a17e4b8f82c52"
 metafile = true
 
 [[files]]
-file = "mods/servuxforged.pw.toml"
-hash = "8d8adf5d3ed0d4e9f8a07864f385c8749f63f0df594e92109e3783cf152371dc"
-metafile = true
-
-[[files]]
 file = "mods/simple-backups.pw.toml"
 hash = "b3b444ca79a5786d5c7589a7119fcf4c3e4cf73c70860c17acb63c88fc06749a"
 metafile = true
