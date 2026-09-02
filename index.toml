@@ -708,6 +708,11 @@ hash = "91875c996a9958aeea794843fb449915218625f52aaf0234ccd1faffa887e277"
 metafile = true
 
 [[files]]
+file = "mods/immersivepetroleum.pw.toml"
+hash = "07deb48161a03d4e701eb50da02343b06585fc04f2328aee5a9ad4bc62c2686a"
+metafile = true
+
+[[files]]
 file = "mods/improved-multishot.pw.toml"
 hash = "1ddf5bd2c157dc32933e3300468456a8734801075bd101b2e6b708b051cbab4b"
 metafile = true
