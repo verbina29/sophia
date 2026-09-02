@@ -78,7 +78,7 @@ hash = "77e0dd3551f931743fba823d506c0b205926b23e07b507b3c414a4052a79f1fc"
 
 [[files]]
 file = "kubejs/server_scripts/starting_items.js"
-hash = "397773b3edcda78fbd496e59b2a32bb918a2ccbb8953715632ec72dbac0587fa"
+hash = "6e95259fd6357113d46678fcae8ad324a17cec4d5f6d890440d6881c306d1c15"
 
 [[files]]
 file = "mods/accessories-compat-layer.pw.toml"
