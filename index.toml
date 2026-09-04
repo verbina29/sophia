@@ -621,6 +621,11 @@ hash = "c29b6380e2e0f0c21405241e4284201a49ae42837d6e30d2f91e53028f541fb9"
 metafile = true
 
 [[files]]
+file = "mods/flux-networks.pw.toml"
+hash = "ad8209e472d463c9fcd19ca708fcd9c1a4a1bc69c9f0ca22efeacb414e9ab7a8"
+metafile = true
+
+[[files]]
 file = "mods/ftb-library-forge.pw.toml"
 hash = "276e79d919c3a698ab2881d784544b7e60bef69b43f44808353bb65d38633cb3"
 metafile = true
