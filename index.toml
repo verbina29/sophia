@@ -1110,6 +1110,11 @@ hash = "a1fa121ed5d0207e4cdd3f545d043f68f9a4bb38dcb21278b968fad5e4cefe4a"
 metafile = true
 
 [[files]]
+file = "mods/schematic-energistics.pw.toml"
+hash = "dd245684fa74320a9ffe20ca50630728c6e2e07a56004981c90627663e749b09"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
