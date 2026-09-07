@@ -41,8 +41,12 @@ file = "config/mixed_litter-startup.toml"
 hash = "820ca24503c2e4c21bf4a4295bad226f7feb19e32a766d1b9fcec7b609707827"
 
 [[files]]
+file = "config/oritech-common.toml"
+hash = "5af40e7a027facad55cc706ebf41d6d859635276b6e7d464f831c2eba1162b7e"
+
+[[files]]
 file = "config/quark-common.toml"
-hash = "a37cd1e62f2a8b03bf7514778a1f5674746ce7fe2f37bcabf9dcc1f8f1786c49"
+hash = "4f515499dcdba018fdedbbb5ee8047c9716d68f50e1b2b92b4c2dc3ebc9b5bce"
 
 [[files]]
 file = "config/sophisticatedbackpacks-server.toml"
@@ -75,6 +79,10 @@ hash = "a27ba5841c70776da0bfde0c4e40a13a0386a2c32040f9a45b30b1ae6a06525f"
 [[files]]
 file = "kubejs/data/vinery/recipe/grapevine_stem.json"
 hash = "77e0dd3551f931743fba823d506c0b205926b23e07b507b3c414a4052a79f1fc"
+
+[[files]]
+file = "kubejs/server_scripts/recipes.js"
+hash = "f2a0398143d0f67244e544edd8844bf3629e4fab29887444d43a3a6a75d73672"
 
 [[files]]
 file = "kubejs/server_scripts/starting_items.js"
@@ -198,11 +206,6 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "7dba9a4a9894a6bbab3a8c7edcc718499297412247fc0e8ccebf75b760c85140"
-metafile = true
-
-[[files]]
-file = "mods/be-style-wither.pw.toml"
-hash = "cdcee5e9dea8ae916d1c116c6c4ca7491285bb5649863bd1e76b4470429e7601"
 metafile = true
 
 [[files]]
@@ -1167,6 +1170,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "9d4a04a61b2cebf80d76716f2d3c034d17f817327cbad6a79921a05c2e2c23a3"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "2d45e747634f18813476b01a13507fa99e01e330334f11c3ed8b6a074faf3b5f"
 metafile = true
 
 [[files]]
