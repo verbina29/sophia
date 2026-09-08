@@ -82,7 +82,7 @@ hash = "77e0dd3551f931743fba823d506c0b205926b23e07b507b3c414a4052a79f1fc"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "f2a0398143d0f67244e544edd8844bf3629e4fab29887444d43a3a6a75d73672"
+hash = "5ed520e49f8acb5296e11f17a2b8631004385f482d504566aebcf5eb836a8a74"
 
 [[files]]
 file = "kubejs/server_scripts/starting_items.js"
