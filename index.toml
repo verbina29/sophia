@@ -25,6 +25,10 @@ file = "config/inventoryhud-client.toml"
 hash = "25ca5af3ce5e7c67ac63ee5bb3141bca5febff6761e581c412da4ec8bb6f5a38"
 
 [[files]]
+file = "config/invtweaks-client.toml"
+hash = "75d6fc693801781eb34e87eeb5aae771c792c928eda22f7946cfa8a4f5e4853d"
+
+[[files]]
 file = "config/lmft.json"
 hash = "adf033fbaab1635ff69880952817366a1abe84ff586504abc29ac96f13454f91"
 
