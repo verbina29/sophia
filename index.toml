@@ -957,6 +957,11 @@ hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-restrictions.pw.toml"
+hash = "188500c93c2f057ae0053890e72e409e2c4ddaedfcb34bdfecb87b6299b5717d"
+metafile = true
+
+[[files]]
 file = "mods/no-mans-delight.pw.toml"
 hash = "ab2cff38a5f58e46582ee8c87cc1aa8ea2248b8e174d3a3ffd3f8bd5530dac2f"
 metafile = true
