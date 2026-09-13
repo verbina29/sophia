@@ -62,7 +62,7 @@ hash = "a252e14f324d11c51d9463bcf823026c47708f995d9bc6ee72f9a055fa14b223"
 
 [[files]]
 file = "config/treephysics-common.toml"
-hash = "0ffb77cb79f609e030b419c4a70fd6ca5221d2874571ed61a2787d9b6c22c7d4"
+hash = "11a07e0155bd8ec53bab5adb2ad0977615ac3fc102e453aea53827b87fa5c6fd"
 
 [[files]]
 file = "config/vehicleupgrade-client.toml"
