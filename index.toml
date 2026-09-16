@@ -89,6 +89,10 @@ file = "kubejs/data/vinery/recipe/grapevine_stem.json"
 hash = "77e0dd3551f931743fba823d506c0b205926b23e07b507b3c414a4052a79f1fc"
 
 [[files]]
+file = "kubejs/server_scripts/pastel_shard_crushing.js"
+hash = "615db2d820653310c6ab3765fdaee9ad0cd42c13be8b63a5ab1894a9e2b4ca00"
+
+[[files]]
 file = "kubejs/server_scripts/recipes.js"
 hash = "5ed520e49f8acb5296e11f17a2b8631004385f482d504566aebcf5eb836a8a74"
 
@@ -860,6 +864,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "712a69b3569a8055979de6eea262068535fe182dffb3833e53e5833e9cbf9766"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create.pw.toml"
+hash = "531aa276b74eabc24566c57412527767238c74ee16b9c646dff511f56dba990c"
 metafile = true
 
 [[files]]
