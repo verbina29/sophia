@@ -721,8 +721,8 @@ hash = "80ff290503050d324accda6451d334e61ed784c32070c855c2aaec09bd440859"
 metafile = true
 
 [[files]]
-file = "mods/hexal-0.3.1-NEOFORGE-DEVEL-pre-12.jar"
-hash = "7d5c16c447504022ab0e0433235349fa33340d4196aa75ee250c87890e805c42"
+file = "mods/hexal-0.3.1-NEOFORGE-DEVEL-pre-12-commit8840df6.jar"
+hash = "5437c3fb7ee2a1d0eb79c63b383b91adc9ba4c9084d801df4b0487a7f0ec1d19"
 
 [[files]]
 file = "mods/hexcasting-neoforge-1.21.1-0.12.0-devel-pre-48.jar"
