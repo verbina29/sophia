@@ -81,12 +81,176 @@ file = "config/xaerohud.txt"
 hash = "8d13c5f398016036aa4fdefb366ef3926d89f96ca104155bc9f6e5a7ec682ecd"
 
 [[files]]
+file = "kubejs/data/sofrecipes/loot_table/mushroom_drops/field_mushroom.json"
+hash = "b366b3d25ece1b9ad8e58903bca9f72b5dad67be130b720dbcf7f23585957d8c"
+
+[[files]]
+file = "kubejs/data/sofrecipes/loot_table/mushroom_drops/shelf_mushroom.json"
+hash = "09a152248ea32c5384eed2736e0f2767bd31f6169dfd3afb5df8f9cd11e9e508"
+
+[[files]]
+file = "kubejs/data/sofrecipes/loot_table/tree_drops/autumnal_oak.json"
+hash = "0211584f28ea44725b920b3256d56b8e12baa0915aedb244da4e494c4641d782"
+
+[[files]]
+file = "kubejs/data/sofrecipes/loot_table/tree_drops/maple.json"
+hash = "343095d1e5329c4302c4d6cadf81ba5e679bffbed597c2077444cc804a5a31c8"
+
+[[files]]
+file = "kubejs/data/sofrecipes/loot_table/tree_drops/pale_cherry.json"
+hash = "67ae57b7bfea55b99853127df4bf45774a96621bf46997b027738ff3c0663d72"
+
+[[files]]
+file = "kubejs/data/sofrecipes/loot_table/tree_drops/pine.json"
+hash = "7a1223932cd5f25d35d8a1aac19047438ec57973181d7fcd99cb315a76601378"
+
+[[files]]
+file = "kubejs/data/sofrecipes/loot_table/tree_drops/red_maple.json"
+hash = "93e37b209bbd59ce2285b51d3697655da8c0d3cfe4aeb9bb33b8a9ef47a76b0a"
+
+[[files]]
+file = "kubejs/data/sofrecipes/loot_table/tree_drops/walnut.json"
+hash = "4a615262f7085e54d7cfb2cbc1d539bb81a4be36e61c06b595ad6633c326df4d"
+
+[[files]]
+file = "kubejs/data/sofrecipes/loot_table/tree_drops/willow.json"
+hash = "6fef008f551411f2aef800a52b6c09806ab9ed3fa06d4ff036231d5124eedfc9"
+
+[[files]]
+file = "kubejs/data/sofrecipes/loot_table/tree_drops/yellow_birch.json"
+hash = "ee2141531edc31f6a360eff584ec170c00835024eafbb15337b5cdce677f6107"
+
+[[files]]
+file = "kubejs/data/sofrecipes/recipe/botany_pots_flowers/aconite.json"
+hash = "ee0fc42334ebd85060641851ff80fffb91d65409b66ea6a894d57e84c8fb09ed"
+
+[[files]]
+file = "kubejs/data/sofrecipes/recipe/botany_pots_flowers/autumn_crocus.json"
+hash = "5db442a088cd7e39385d861d2556fd9ce7b63e647059a3bd8b20dc83c008d575"
+
+[[files]]
+file = "kubejs/data/sofrecipes/recipe/botany_pots_flowers/blue_flowerbed.json"
+hash = "3869cb0b3d68147dbbed7211af22cfdaa8dbf0f0b681d416f2e7ffffa06d6779"
+
+[[files]]
+file = "kubejs/data/sofrecipes/recipe/botany_pots_flowers/blue_lupine.json"
+hash = "0ef35573fb69edc0d7c0d04e56fbc24068ac9957826fc2ca1dca923767eb9ad6"
+
+[[files]]
+file = "kubejs/data/sofrecipes/recipe/botany_pots_flowers/clover_patch.json"
+hash = "9678cc84218984a3e408e98bfee0ae87959bde4f31cc4add3cbda8705dd7852a"
+
+[[files]]
+file = "kubejs/data/sofrecipes/recipe/botany_pots_flowers/ground_ivy.json"
+hash = "92dc680e5919ee0bf841066188a6eea193d9b57fc4db558525367bdae624c449"
+
+[[files]]
+file = "kubejs/data/sofrecipes/recipe/botany_pots_flowers/magebloom.json"
+hash = "820eea70250fb13d2754af15dea5e6a676a2cfdf83025a33e53c98e79621dc4b"
+
+[[files]]
+file = "kubejs/data/sofrecipes/recipe/botany_pots_flowers/pickleweed.json"
+hash = "cf879e2ddbc4c472d6b33d12154baec0b7e78d485a6d6f1bd52bdd69ed185cdf"
+
+[[files]]
+file = "kubejs/data/sofrecipes/recipe/botany_pots_flowers/pink_lupine.json"
+hash = "fd41d81bf6bd7b87bf8922c4a8e52949e7e1722548d85a8987183d5b2c77e8af"
+
+[[files]]
+file = "kubejs/data/sofrecipes/recipe/botany_pots_flowers/quitoxic_reeds.json"
+hash = "1c9918c80765ff4d7cb53d8552af0cf7e8a33942481fb8053ab6c6558349418a"
+
+[[files]]
+file = "kubejs/data/sofrecipes/recipe/botany_pots_flowers/rafflesia.json"
+hash = "b171262f7e0b1dd26980dba5c1c1822aac37ad70f29465f484cbc1c43ccdd7db"
+
+[[files]]
+file = "kubejs/data/sofrecipes/recipe/botany_pots_flowers/red_flowerbed.json"
+hash = "2c0e2287f57cba8a0fbfdbb2cf35d3105eeb3ce007c0e2068d1fb53fefcd6814"
+
+[[files]]
+file = "kubejs/data/sofrecipes/recipe/botany_pots_flowers/red_lupine.json"
+hash = "21218afb196a80a910be95eb95f4b9e69f3d75cfe6feb2ba83c135b57e057ce0"
+
+[[files]]
+file = "kubejs/data/sofrecipes/recipe/botany_pots_flowers/starflower.json"
+hash = "302437b61e7f9332300fa03527e4e5e8b5ac07f09ef83f2d2def4ee88225d352"
+
+[[files]]
+file = "kubejs/data/sofrecipes/recipe/botany_pots_flowers/thistle.json"
+hash = "19e41c0d15b450e0be5371ebcc6e2650b57561bbb3dda5adf03bddc514742352"
+
+[[files]]
+file = "kubejs/data/sofrecipes/recipe/botany_pots_flowers/violet_flowerbed.json"
+hash = "874e54b61f86cc1067e5467fcee9667a0667db03dbb69ea81c252e4815b41fd3"
+
+[[files]]
+file = "kubejs/data/sofrecipes/recipe/botany_pots_flowers/white_flowerbed.json"
+hash = "7305fe0b6e29cf2c562a0bbf31464188e296cc38d990b2817a9c4caa5c1eb398"
+
+[[files]]
+file = "kubejs/data/sofrecipes/recipe/botany_pots_flowers/wild_mint.json"
+hash = "7a1714d54b99c60072836b533d3a3e351dc8d5d252fc750acf2a92a054857867"
+
+[[files]]
+file = "kubejs/data/sofrecipes/recipe/botany_pots_flowers/yellow_flowerbed.json"
+hash = "fbaf323213cd228bc0523e614a199e1ac3216af73405fb5cfe0fa2d7329abeec"
+
+[[files]]
+file = "kubejs/data/sofrecipes/recipe/botany_pots_flowers/yellow_lupine.json"
+hash = "3eb1cab75eaf20797679aa889b9ad73c43827a512a996a193b62499fee0d9a01"
+
+[[files]]
+file = "kubejs/data/sofrecipes/recipe/botany_pots_mushrooms/field_mushroom.json"
+hash = "aa45a601f0a20ec47f7b87f75396da6193615f57e3fc1b872788621c9ce996ec"
+
+[[files]]
+file = "kubejs/data/sofrecipes/recipe/botany_pots_mushrooms/field_mushroom_colony.json"
+hash = "2d0594d718a02871f8762ee5651e5ea4c50fda2964f88187e5bfdd734f096e7b"
+
+[[files]]
+file = "kubejs/data/sofrecipes/recipe/botany_pots_mushrooms/shelf_mushroom.json"
+hash = "f51d937e9ff3edeb4dc26d14e3abe0432c4d82885459e54a0e8745a89e72fd35"
+
+[[files]]
+file = "kubejs/data/sofrecipes/recipe/botany_pots_trees/autumnal_oak.json"
+hash = "d5cce3316721cc5dcd9445222f293c57a901370754f47eaaad2f096f98fb8b70"
+
+[[files]]
+file = "kubejs/data/sofrecipes/recipe/botany_pots_trees/maple.json"
+hash = "e968ef92d997253437a5866f710faf5148e67928c9bdd1478df120c4b7656f98"
+
+[[files]]
+file = "kubejs/data/sofrecipes/recipe/botany_pots_trees/pale_cherry.json"
+hash = "486842fa491c97724ca7f7d002cead870392ce4e980bfac2a3f5dc3fb1bbe521"
+
+[[files]]
+file = "kubejs/data/sofrecipes/recipe/botany_pots_trees/pine.json"
+hash = "6792a2c93957746525dea49c7ceb418de04dc411f0dc23b868a89867e990ad87"
+
+[[files]]
+file = "kubejs/data/sofrecipes/recipe/botany_pots_trees/red_maple.json"
+hash = "3d41d2e2f7b5088e1fe0eac7229d0555746df404691c7f358e78dc3256d8940c"
+
+[[files]]
+file = "kubejs/data/sofrecipes/recipe/botany_pots_trees/walnut.json"
+hash = "4d084ff02df5a19f47ad17ae2657c7e903a9e44e1ccfa08d7871d82f8658c555"
+
+[[files]]
+file = "kubejs/data/sofrecipes/recipe/botany_pots_trees/willow.json"
+hash = "8a2671d4af761c046e3b42d668e3ba7932b2956757add0c92ece59f1f4d5f0ed"
+
+[[files]]
+file = "kubejs/data/sofrecipes/recipe/botany_pots_trees/yellow_birch.json"
+hash = "82250fbba529522efe7cd21438aa231b7eca69b17225e217e829e2f116984ba9"
+
+[[files]]
 file = "kubejs/data/sofrecipes/recipe/cfruit.json"
 hash = "a27ba5841c70776da0bfde0c4e40a13a0386a2c32040f9a45b30b1ae6a06525f"
 
 [[files]]
 file = "kubejs/data/vinery/recipe/grapevine_stem.json"
-hash = "77e0dd3551f931743fba823d506c0b205926b23e07b507b3c414a4052a79f1fc"
+hash = "478a93abfacd7f4fd5f8bf8934f5072b5522fe21c7da7b763cc220c57b94f668"
 
 [[files]]
 file = "kubejs/server_scripts/pastel_shard_crushing.js"
