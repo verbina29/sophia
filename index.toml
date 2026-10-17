@@ -700,6 +700,11 @@ hash = "0477d572817d9de3a5569109a8d07a2e519af9ccf0e8236cae621369afbc6e4c"
 metafile = true
 
 [[files]]
+file = "mods/emi-trades-reborn.pw.toml"
+hash = "8fb8f71bf1d75a789d806632bfc502a96bbd155cf927bab4908591f5e8be12bd"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "67bb77eae0b644960be3b1074178ceb5d54facbb42f326981b9d94625238a54a"
 metafile = true
