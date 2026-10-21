@@ -756,7 +756,7 @@ metafile = true
 
 [[files]]
 file = "mods/exclusions-lib.pw.toml"
-hash = "b755db273ddfbdafdbab2a2990188aa0e2ea88c842bd27aca5c61d42d3adfef9"
+hash = "71651e89e2a5c63ecb5e64ae79cc20b8cd37b03ce9210997443b7d64c98cdd52"
 metafile = true
 
 [[files]]
@@ -910,6 +910,10 @@ metafile = true
 [[files]]
 file = "mods/hextra-patterns-1.21-1.10.0+1.21.1-devel-pre-4-neoforge-1.21.1.jar"
 hash = "e38ca8a70589f7711cd6510ffbce3b84d253940e5ccb39c5c889318a7bff0329"
+
+[[files]]
+file = "mods/hextra-patterns-1.21-1.10.0+1.21.1-devel-pre-5-neoforge-1.21.1.jar"
+hash = "e25b9e78126c25779c9b6a46d37a6b40fd8aed2bdac6cee156420f9525e16354"
 
 [[files]]
 file = "mods/hide-experimental-warning.pw.toml"
@@ -1498,6 +1502,10 @@ hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
 metafile = true
 
 [[files]]
+file = "mods/world-casting-neoforge-1.21.1-0.0.1-10.jar"
+hash = "83e53bdeb4f9473143ec4ee5c1d83c2805b5a63afe4eeb87f18e10e134ea2831"
+
+[[files]]
 file = "mods/world-casting-neoforge-1.21.1-0.0.1-8.jar"
 hash = "667183846ed517b7c8f9d397436b633a1faad9016bea978eabb3646f69b14ee3"
 
@@ -1530,6 +1538,10 @@ metafile = true
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "ea258ed5bf495d9017eeadc3cbf9bd67b1e672d843826bc077135548b5bc699e"
 metafile = true
+
+[[files]]
+file = "unsup.ini"
+hash = "831bf2700554ddc7b65d90e31de636dd2c39cda329addcbd190f19c5fbb75a1e"
 
 [[files]]
 file = "unsup.toml"
