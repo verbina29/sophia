@@ -1161,7 +1161,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-mans-delight.pw.toml"
-hash = "ab2cff38a5f58e46582ee8c87cc1aa8ea2248b8e174d3a3ffd3f8bd5530dac2f"
+hash = "235fe34fc17d09f0430f3aed7e1a3cef2d3375a599e6da15f74367d1a615ffe0"
 metafile = true
 
 [[files]]
