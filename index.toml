@@ -440,6 +440,11 @@ hash = "75ee5511e4bb37c0f13486e2a550bea43dcf630f38201b4c61a1ae284cbccf94"
 metafile = true
 
 [[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "22d9510588b081cf9905f6549d24bc11012aa8d9c7d38a8619ab9db5ccb7b9a8"
+metafile = true
+
+[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "8eeaf5023a8c5978f68ecd71d09ac46516167111ab2f46ab2c3909b8f9283f92"
 metafile = true
@@ -662,6 +667,11 @@ metafile = true
 [[files]]
 file = "mods/display-delight.pw.toml"
 hash = "18219006cd971209a7630c5704c2ca92d5631f3d6ee6cb1c43975656c249ba0f"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "0c20fea3407ed0db85b4b171f1820a24987f2659946fadd30bae044205041b09"
 metafile = true
 
 [[files]]
@@ -1533,8 +1543,8 @@ metafile = true
 
 [[files]]
 file = "unsup.ini"
-hash = "831bf2700554ddc7b65d90e31de636dd2c39cda329addcbd190f19c5fbb75a1e"
+hash = "d1663ea16c34a5a53f00190e62223dbe44040cfe17b4b91473355fa135f07f70"
 
 [[files]]
 file = "unsup.toml"
-hash = "75ca9497ffe6bdf11cfa472bb2d6681a784c3af2186d399491fba51eaf8e51e4"
+hash = "fc78e33a94eb648a05680660aae6a9e3e8412e14ba3a2d462a681ec917a594f1"

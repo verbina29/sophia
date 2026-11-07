@@ -3,6 +3,11 @@ name = "OVERSTIMULATION!!!"
 description = "adds all of the bullshit UI elements verbina likes. BoccHUD (mini-F3 ui), Inventory HUD+."
 side = "client"
 choices = ["overstimulation_on", "overstimulation_off"]
+[flavor_groups.dh]
+name = "Distant Horizons"
+description = "Enables Distant Horizons, which allows you to see much farther."
+side = "both"
+choices = ["dh_on", "dh_off"]
 
 [metafile.inventoryhudplus]
 flavors = ["overstimulation_on"]
@@ -10,3 +15,5 @@ flavors = ["overstimulation_on"]
 flavors = ["overstimulation_on"]
 [metafile.bocchud]
 flavors = ["overstimulation_on"]
+[metafile.distanthorizons]
+flavors = ["dh_on"]
